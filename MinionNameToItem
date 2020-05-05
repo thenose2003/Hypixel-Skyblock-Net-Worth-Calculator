@@ -1,0 +1,26 @@
+[
+    {
+        "dest": "LOG",
+        "src": "OAK"
+    },
+    {
+        "dest": "LOG:2",
+        "src": "BIRCH"
+    },
+    {
+        "dest": "LOG:1",
+        "src": "SPRUCE"
+    },
+    {
+        "dest": "LOG_2:1",
+        "src": "DARK_OAK"
+    },
+    {
+        "dest": "LOG_2",
+        "src": "ACACIA"
+    },
+    {
+        "dest": "LOG:3",
+        "src": "JUNGLE"
+    }
+]
