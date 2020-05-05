@@ -1,0 +1,14 @@
+[
+    {
+        "dest": "shredder",
+        "src": "the_shredder"
+    },
+    {
+        "dest": "treecapitator",
+        "src": "treecapitator_axe"
+    },
+    {
+        "dest": "reaper_falc",
+        "src": "reaper_sword"
+    }
+]
