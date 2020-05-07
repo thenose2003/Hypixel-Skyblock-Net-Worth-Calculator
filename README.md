@@ -1,4 +1,4 @@
-#Hypixel Skyblock Net Worth Calculator
+# Hypixel Skyblock Net Worth Calculator
 Thank you for using and/or checking out the github page for this program I have been developing.
 This program is designed for everyone to use but to make sure your value is calculated correctly please 
 follow the guidelines listed below.
