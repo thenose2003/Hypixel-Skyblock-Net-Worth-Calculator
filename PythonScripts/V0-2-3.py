@@ -501,11 +501,11 @@ data = net_gitdataload('https://raw.githubusercontent.com/skyblockz/pricecheckbo
 
 autocor = net_gitdataload('https://raw.githubusercontent.com/skyblockz/pricecheckbot/master/alias.json')
 
-xautocor = net_gitdataload('https://raw.githubusercontent.com/thenose2003/networth-extras/master/ExtraAutoCor.json')
+xautocor = net_gitdataload('https://raw.githubusercontent.com/thenose2003/Hypixel-Skyblock-Net-Worth-Calculator/master/ExtraAutoCor.json')
 
-mindata = net_gitdataload('https://raw.githubusercontent.com/thenose2003/networth-extras/master/MinionData.json')
+mindata = net_gitdataload('https://raw.githubusercontent.com/thenose2003/Hypixel-Skyblock-Net-Worth-Calculator/master/MinionData.json')
 
-minautocor = net_gitdataload('https://raw.githubusercontent.com/thenose2003/networth-extras/master/MinionNameToItem.json')
+minautocor = net_gitdataload('https://raw.githubusercontent.com/thenose2003/Hypixel-Skyblock-Net-Worth-Calculator/master/MinionNameToItem.json')
 
 #Grabbing player data from the specified profile and converting into understandable NBT files using the hypixel API
 profile = requests.get('https://api.hypixel.net/skyblock/profile?key=' + api + '&profile=' + proid).json()
