@@ -9,6 +9,20 @@ follow the guidelines listed below.
 - This program is still in an early stage and not all items will be counted. If the item is not counted the program will inform you.
 - If you have any concerns or other information that I need to know you can contact me through this repository or on my discord server at [discord.gg/sXMwhJH](discord.gg/sXMwhJH)
 
+## How can I get the program?
+1. Open the "Builds" folder
+2. Select the latest version(it will have the biggest number)
+3. Click download
+4. Run and your done!
+
+## What if I want to build the project myself?
+1. Install python 3.8 at their official website here []() (Make sure you add python to path when installing)
+2. Open the scripts folder
+3. Select the latest version(it will have the biggest number)
+4. Click download
+5. Install the NBT libary by opening a terminal and typing "pip install nbt"
+6. Run the program by opening the project with python
+
 ## Credits
 - All prices were taken from the SkyBlockZ public GitHub repo. Be sure to join their discord at [discord.gg/skyblock](discord.gg/skyblock)
 - This program was made by Te_Nose_ join their discord server at [discord.gg/sXMwhJH](discord.gg/sXMwhJH)
