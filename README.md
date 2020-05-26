@@ -11,14 +11,14 @@ follow the guidelines listed below.
 
 ## How can I get the program?
 1. Open the "Builds" folder
-2. Select the latest version(it will have the biggest number)
+2. Select the latest version (it will have the biggest number)
 3. Click download
 4. Run and your done!
 
 ## What if I want to build the project myself?
-1. Install python 3.8 at their official website here []() (Make sure you add python to path when installing)
+1. Install python 3.8 at their official website here [https://www.python.org/downloads/](https://www.python.org/downloads/) (Make sure you add python to path when installing)
 2. Open the scripts folder
-3. Select the latest version(it will have the biggest number)
+3. Select the latest version (it will have the biggest number)
 4. Click download
 5. Install the NBT libary by opening a terminal and typing "pip install nbt"
 6. Run the program by opening the project with python
