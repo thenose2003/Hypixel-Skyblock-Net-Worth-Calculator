@@ -25,7 +25,7 @@ follow the guidelines listed below.
 
 ## Credits
 - All prices were taken from the SkyBlockZ public GitHub repo. Be sure to join their discord at [discord.gg/skyblock](discord.gg/skyblock)
-- This program was made by Te_Nose_ join their discord server at [discord.gg/sXMwhJH](discord.gg/sXMwhJH)
+- This program was made by The_Nose_ join their discord server at [discord.gg/sXMwhJH](discord.gg/sXMwhJH)
 - Thanks to _Aquil0n_ for creating the cover photo. It looks great :D
 - The python module NBT is used to decode the data. Thank you Twoolie for the amazing library.
 - Thanks for all of the forum's users that helped answer my questions and to make this whole process a lot easier.
