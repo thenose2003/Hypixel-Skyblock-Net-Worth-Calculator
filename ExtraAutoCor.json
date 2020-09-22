@@ -10,5 +10,89 @@
     {
         "dest": "reaper_falc",
         "src": "reaper_sword"
+    },
+    {
+        "dest": "spirit_sceptre",
+        "src": "bat_staff"
+    },
+    {
+        "dest": "golden_bonzo_head",
+        "src": "gold_bonzo_head"
+    },
+    {
+        "dest": "golden_scarf_head",
+        "src": "gold_scarf_head"
+    },
+    {
+        "dest": "golden_professor_head",
+        "src": "gold_professor_head"
+    },
+    {
+        "dest": "golden_thorn_head",
+        "src": "gold_thorn_head"
+    },
+    {
+        "dest": "golden_livid_head",
+        "src": "gold_livid_head"
+    },
+    {
+        "dest": "yellow_crab_hat_of_celecration",
+        "src": "party_hat_crab"
+    },
+    {
+        "dest": "common_beastmaster_crest",
+        "src": "beastmaster_crest_common"
+    },
+    {
+        "dest": "uncommon_beastmaster_crest",
+        "src": "beastmaster_crest_uncommon"
+    },
+    {
+        "dest": "rare_beastmaster_crest",
+        "src": "beastmaster_crest_rare"
+    },
+    {
+        "dest": "epic_beastmaster_crest",
+        "src": "beastmaster_crest_epic"
+    },
+    {
+        "dest": "legendary_beastmaster_crest",
+        "src": "beastmaster_crest_legendary"
+    },
+    {
+        "dest": "scarfs_grimoire",
+        "src": "scarf_grimoire"
+    },
+    {
+        "dest": "scarfs_thesis",
+        "src": "scarf_thesis"
+    },
+    {
+        "dest": "scarfs_studies",
+        "src": "scarf_stuidies"
+    },
+    {
+        "dest": "aspect_of_the_dragons",
+        "src": "aspect_of_the_dragon"
+    },
+    {
+        "dest": "rod_of_legends",
+        "src": "legend_rod"
+    },
+    {
+        "dest": "divers_helmet",
+        "src": "diver_helmet"
+    },
+    {
+        "dest": "divers_chestplate",
+        "src": "diver_chestplate"
+    },
+    {
+        "dest": "divers_leggings",
+        "src": "diver_leggings"
+    },
+    {
+        "dest": "divers_boots",
+        "src": "diver_boots"
     }
 ]
